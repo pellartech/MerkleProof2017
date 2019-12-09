@@ -1,0 +1,20 @@
+{
+  "name": "merkleproof2017",
+  "version": "0.0.4",
+  "description": "Merkle Proof Signature Suite 2017",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pellartech/MerkleProof2017.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dan@pellartech.com",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "jsonld": "^1.8.1",
+    "merkletreejs": "^0.1.7"
+  }
+}
