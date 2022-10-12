@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "crypto-js": "^3.1.9-1",
-    "jsonld": "^1.8.1",
+    "jsonld": "^8.1.0",
     "merkletreejs": "^0.1.7"
   }
 }
